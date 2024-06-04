@@ -1,0 +1,750 @@
+/*Extra*/
+button:hover {
+    cursor: pointer;
+}
+
+div.Main {
+    align-items:center
+}
+
+/*Div.Nav_Bar*/
+div.Navigation_Bar {
+    display: flex;
+    justify-content: space-around;
+    font-family: Roboto;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+div.Left_Nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+}
+
+p.Purple_Nav {
+    color: #505F98;
+}
+
+p.Purple_Nav:hover {
+    cursor: pointer;
+    color: #394471;
+}
+
+button.Nav {
+    background-color: #001543;
+    color: white;
+    width: 160px;
+    height: 26px;
+    top: 18px;
+    left: 1115px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+h1.Purple_Nav {
+    color: #001543;
+    max-width: 79px;
+    height: 38px;
+    top: 12px;
+    left: 681px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+/*Div.One*/
+div.One {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+div.Left_One {
+    display: flex;
+    flex-direction: column;
+}
+
+h1.Purple_One {
+   max-width: 539px;
+    height: 132px;
+    opacity: 0px;
+    color: #091133;
+    font-family: Roboto;
+    font-size: 50px;
+    text-align: left;
+}
+
+button.White_One {
+    background-color: white;
+    color: #001543;
+    width: 189.13px;
+    height: 36px;
+    top: 688px;
+    left: 382.27px;
+    gap: 0px;
+    opacity: 0px;
+    border-style: #001543;
+    font-family: Roboto;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+button.Purple_One {
+    background-color: #111B47;
+    color: white;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    max-width: 189.13px;
+    height: 36px;
+    top: 688px;
+    left: 163.12px;
+    gap: 0px;
+    opacity: 0px;
+    width: 189px;
+}
+
+p.Purple_One {
+    font-family: Roboto;
+    font-size: 18px;
+    text-align: left;
+    color: #505F98;
+    max-width: 539px;
+    height: 164px;
+}
+
+div.Bottom_One {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img.Big_One {
+    max-width: 650.86px;
+    height: 780px;
+    top: 245px;
+    left: 794.37px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+button.Nav_Hide {
+    display: none;
+}
+
+/*Div.Two*/
+div.Two {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+div.Left_Two {
+    display: flex;
+    flex-direction: column;
+}
+
+h1.Purple_Two {
+    font-family: Roboto;
+    font-size: 36px;
+    text-align: left;
+    max-width: 540px;
+    height: 48px;
+    color: #091133;
+}
+
+p.Purple_Two {
+    max-width: 540px;
+    height: 140px;
+    top: 64px;
+    gap: 0px;
+    opacity: 0px;
+    color: #6F7CB2;
+    font-family: Roboto;
+    font-size: 16px;
+    text-align: left;
+}
+
+div.Bottom_Two {
+    display: flex;
+    justify-content: space-around;
+    align-self: last baseline;
+    margin-top: 135px;
+}
+
+h1.Purple_Two_Bottom {
+    max-width: 255px;
+    height: 26px;
+    top: 50px;
+    gap: 0px;
+    opacity: 0px;
+    color: #091133;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: left;
+}
+
+p.Purple_Two_Bottom {
+    max-width: 255px;
+    height: 54px;
+    top: 82px;
+    gap: 0px;
+    opacity: 0px;
+    color: #5D6970;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+}
+
+img.Big_Two {
+    max-width: 540px;
+    height: 524.31px;
+    top: 1219.65px;
+    left: 735px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+/*Div.Three*/
+div.Three {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    flex-wrap: wrap;
+}
+
+h1.Purple_Three {
+    max-width: 445px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    color: #091133;
+    font-family: Roboto;
+    font-size: 36px;
+   
+    text-align: left;
+}
+
+p.Purple_Three {
+    max-width: 445px;
+    height: 166px;
+    top: 64px;
+    gap: 0px;
+    opacity: 0px;
+    color: #6F7CB2;
+    font-family: Roboto;
+    font-size: 16px;
+   
+    text-align: left;
+}
+
+img.Big_Three {
+    max-width: 480px;
+    height: 315.85px;
+    top: 1974.44px;
+    left: 191px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+/*Div.Four*/
+div.Four {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    flex-wrap: wrap;
+}
+
+h1.Purple_Four {
+    max-width: 445px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    color: #091133;
+    font-family: Roboto;
+    font-size: 36px;
+    text-align: left;
+}
+
+p.Purple_Four {
+    max-width: 445px;
+    height: 166px;
+    top: 64px;
+    gap: 0px;
+    opacity: 0px;
+    color: #6F7CB2;
+    font-family: Roboto;
+    font-size: 16px;
+   
+    text-align: left;
+}
+
+img.Big_Four {
+    max-width: 540px;
+    height: 387px;
+    top: 2512.76px;
+    left: 161px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+/*Div.Five*/
+div.Five {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    flex-wrap: wrap;
+}
+
+h1.Purple_Five {
+    max-width: 445px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    color: #091133;
+    font-family: Roboto;
+    font-size: 36px;
+   
+    text-align: left;
+}
+
+p.Purple_Five {
+    max-width: 445px;
+    height: 166px;
+    top: 64px;
+    gap: 0px;
+    opacity: 0px;
+    color: #6F7CB2;
+    font-family: Roboto;
+    font-size: 16px;
+   
+    text-align: left;
+}
+
+img.Big_Five {
+    max-width: 445px;
+    height: 312px;
+    top: 3131.93px;
+    left: 209px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+button.Button_Five {
+    max-width: 150px;
+    height: 32px;
+    top: 3404px;
+    left: 826px;
+    gap: 0px;
+    opacity: 0px;
+    color: white;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    background-color: #111B47;
+}
+
+/*Div.Six*/
+div.Six {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    flex-wrap: wrap;
+}
+
+h1.Purple_Six {
+    max-width: 600px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    color: #091133;
+    font-family: Roboto;
+    font-size: 36px;
+  
+    text-align: center;
+}
+
+p.Purple_Six_1 {
+    max-width: 600px;
+    height: 78px;
+    top: 64px;
+    gap: 0px;
+    opacity: 0px;
+    color: #6F7CB2;
+    font-family: Roboto;
+    font-size: 16px;
+   
+    text-align: center;
+}
+
+p.Purple_Six_2 {
+    max-width: 600px;
+    height: 78px;
+    top: 64px;
+    gap: 0px;
+    opacity: 0px;
+    color: #6F7CB2;
+    font-family: Roboto;
+    font-size: 16px;
+   
+    text-align: center;
+}
+
+p.Gray_Six {
+    max-width: 350px;
+    height: 24px;
+    top: 4174.82px;
+    left: 545px;
+    gap: 0px;
+    opacity: 0px;
+    color: #5D6970;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+}
+
+button.Button_Six {
+    max-width: 189px;
+    height: 31.81px;
+    top: 4207.86px;
+    left: 625px;
+    gap: 0px;
+    opacity: 0px;
+    background: #111B47;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+}
+
+div.Bottom_Six {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/*Div.Footer*/
+div.Footer {
+    background: lightgrey;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+
+}
+
+div.Top_Footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+div.Bottom_Footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+div.Left_Footer {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+div.Top_Footer {
+    border-bottom: #CDD1D4;
+}
+
+div.Right_Footer {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+h1.Purple_Footer {
+    max-width: 95px;
+    height: 38px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 900;
+    line-height: 38px;
+    text-align: left;
+    color: #37447E;
+}
+
+p.Purple_Footer {
+    top: 4572px;
+    left: 165px;
+    gap: 0px;
+    opacity: 0px;
+    color: #929ECC;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+
+p.Purple_Footer:hover {
+    cursor: pointer;
+    color: #394471;
+}
+
+p.Gray_Footer {
+    max-width: 133px;
+    height: 24px;
+    top: 4480px;
+    left: 165px;
+    gap: 0px;
+    opacity: 0px;
+    color: #939EA4;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+}
+
+button.Button_Footer {
+    max-width: 109px;
+    height: 26px;
+    top: 4479px;
+    left: 1166px;
+    gap: 0px;
+    opacity: 0px;
+    color: #FFFFFF;
+    background: #111B47;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+}
+
+img.Symbol {
+    max-width: 16px;
+    height: 16px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+hr {
+    height: 2px;
+    border-width: 0;
+    color: gray;
+    background-color: gray
+}
+
+img.Symbol:hover {
+    cursor: pointer;
+    background-color: blue;
+}
+
+/*Font Face*/
+@font-face {
+    font-family: Roboto;
+    src: url(./Roboto-Regular.ttf);
+}
+
+/*Media Quiery*/
+@media only screen and (max-width:768px) {
+    /*div.Nav*/
+    
+   div.Nav {
+    align-items: center;
+   }
+   
+    p.Purple_Nav {
+        display: none;
+    }
+
+    button.Nav_Hide {
+        display: block;
+        align-items: center;
+        width: 48px;
+        height: 48px;border-style: none;
+    }
+
+    button.Nav_Hide img {
+        width: 48px;
+        height: 48px;
+        border-style: none;
+    }
+
+    Button {
+        width: 110px;
+    }
+
+    h1.Purple_Nav {
+        font-size: x-large;
+    }
+
+    p.Purple_Nav {
+        font-size: x-large;
+    }
+
+    /*div.One*/
+
+    div.One {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    img.Big_One {
+        width: 450px;
+        height: 500px;
+    }
+
+    div.Bottom_One button {
+        width: 120px;
+        align-items: baseline;
+        margin-top: 20px;
+    }
+
+    h1.Purple_One {
+        font-size: xx-large;
+        margin: 0;
+        gap: 0;
+    }
+    
+    p.Purple_One {
+        font-size: medium;
+        margin: 0;
+        gap: 0;
+    }
+
+    div.Bottom_One {
+        display: flex;
+        justify-content: last baseline;
+    }
+
+    /*div.Two*/
+
+    div.Two {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    img.Big_Two {
+        width: 350px;
+        height: 500px;
+    }
+
+    h1.Purple_Two {
+        font-size: xx-large;
+        margin: 0;
+        gap: 0;
+    }
+    
+    p.Purple_Two {
+        font-size: medium;
+        margin: 0;
+        gap: 0;
+        margin-top: 20px;
+    }
+
+    /*div.Media*/
+
+    div.Media {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-bottom: 0px;
+    }
+
+    img.Big_Three {
+        width: 350px;
+        height: 350px;
+    }
+
+    img.Big_Four {
+        width: 380px;
+        height: 350px;
+    }
+
+    h1.Purple_Three {
+        font-size: xx-large;
+        margin: 0;
+        gap: 0;
+    }
+    
+    p.Purple_Three {
+        font-size: medium;
+        margin: 0;
+        gap: 0;
+        margin-top: 50px;
+    }
+
+    h1.Purple_Four {
+        font-size: xx-large;
+        margin: 0;
+        gap: 0;
+    }
+    
+    p.Purple_Four {
+        font-size: medium;
+        margin: 0;
+        gap: 0;
+        margin-top: 50px;
+    }
+
+    h1.Purple_Five {
+        font-size: xx-large;
+        margin: 0;
+        gap: 0;
+    }
+    
+    p.Purple_Five {
+        font-size: medium;
+        margin: 0;
+        gap: 0;
+        margin-top: 50px;
+    }
+
+    h1.Purple_Six {
+        font-size: xx-large;
+        margin: 0;
+        gap: 0;
+    }
+    
+    p.Purple_Six_1 {
+        font-size: medium;
+        margin: 0;
+        gap: 0;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    p.Purple_Six_2 {
+        font-size: medium;
+        margin: 0;
+        gap: 0;
+    }
+    
+}
+
